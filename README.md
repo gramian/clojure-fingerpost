@@ -46,7 +46,7 @@
 ## Paper
 
 * [A history of Clojure](https://doi.org/10.1145/3386321) - R. Hickey
-* [Clojure for Number Crunching on Multicore Machines])(https://doi.org/10.1109/MCSE.2012.69) - M. Kalin, D. Miller
+* [Clojure for Number Crunching on Multicore Machines](https://doi.org/10.1109/MCSE.2012.69) - M. Kalin, D. Miller
 * [The Clojure programming language](https://doi.org/10.1145/1408681.1408682) - R. Hickey
 * [Clojure Tutorial](https://doi.org/10.1145/1900160.1900162) - A. Bedra
 
