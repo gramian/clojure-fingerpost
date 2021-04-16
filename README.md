@@ -38,10 +38,10 @@
 
 ### German Language
 
-* [Concurrent Programming mit Clojure](https://www.linux-magazin.de/ausgaben/2010/01/nebenlaeufig/) - 
-* [Parallelprogrammierung mit Clojure](https://www.heise.de/developer/artikel/Parallelprogrammierung-mit-Clojure-1170690.html) - 
-* [Lisp goes Java](https://www.heise.de/select/ix/2020/13/2007009352898750245) - {german}
-* [Clojure: das Lisp für die Java-Plattform](https://jaxenter.de/clojure-pirates-jvm-52400) - 
+* [Concurrent Programming mit Clojure](https://www.linux-magazin.de/ausgaben/2010/01/nebenlaeufig/)
+* [Parallelprogrammierung mit Clojure](https://www.heise.de/developer/artikel/Parallelprogrammierung-mit-Clojure-1170690.html)
+* [Lisp goes Java](https://www.heise.de/select/ix/2020/13/2007009352898750245)
+* [Clojure: das Lisp für die Java-Plattform](https://jaxenter.de/clojure-pirates-jvm-52400)
 
 ## Paper
 
