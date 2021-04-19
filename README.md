@@ -58,6 +58,7 @@
 
 * [Clojure TV](https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg/videos)
 * [InfoQ: Clojure](https://www.infoq.com/Clojure/presentations/)
+* [Clojure for Schemers](https://vimeo.com/22675078)
 
 ## Podcasts
 
