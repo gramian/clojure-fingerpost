@@ -6,6 +6,7 @@
 * [Learn Clojure in Y Minutes](https://learnxinyminutes.com/docs/clojure/)
 * [Clojure Programming](https://en.wikibooks.org/wiki/Clojure_Programming)
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
+* [Clojure by example](https://kimh.github.io/clojure-by-example/#about)
 * [Clean Coder: Functional Programming](https://cleancoders.com/series/clean-code/functional-programming)
 
 ## Basic
@@ -16,7 +17,9 @@
 * [ClojureDocs](https://clojuredocs.org/)
 * [The Clojure Style Guide](https://guide.clojure.style/)
 * [Clojure Toolbox](https://www.clojure-toolbox.com/)
+* [Clojars](https://clojars.org/)
 * [Clojure Koans](http://clojurekoans.com/)
+* [Leiningen](https://leiningen.org/)
 
 ## Platforms
 
@@ -24,6 +27,7 @@
 * [RosettaCode: Clojure](https://rosettacode.org/wiki/Category:Clojure)
 * [Stackoverflow: Clojure](https://stackoverflow.com/questions/tagged/clojure)
 * [Exercism: Clojure](https://exercism.io/tracks/clojure)
+* [4Clojure](https://www.4clojure.com/)
 
 ## Books
 
@@ -43,7 +47,7 @@
 * [Lisp goes Java](https://www.heise.de/select/ix/2020/13/2007009352898750245)
 * [Clojure: das Lisp für die Java-Plattform](https://jaxenter.de/clojure-pirates-jvm-52400)
 
-## Paper
+## Papers
 
 * [A history of Clojure](https://doi.org/10.1145/3386321) - R. Hickey
 * [Clojure for Number Crunching on Multicore Machines](https://doi.org/10.1109/MCSE.2012.69) - M. Kalin, D. Miller
@@ -53,10 +57,12 @@
 ## Videos
 
 * [Clojure TV](https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg/videos)
+* [InfoQ: Clojure](https://www.infoq.com/Clojure/presentations/)
 
 ## Podcasts
 
 * [Functional Design in Clojure](https://clojuredesign.club/)
+* [The REPL](https://www.therepl.net/)
 
 ## Blogs
 
@@ -65,3 +71,4 @@
 * [Why Clojure?](https://blog.cleancoder.com/uncle-bob/2019/08/22/WhyClojure.html)
 * [A Little Clojure](https://blog.cleancoder.com/uncle-bob/2020/04/06/ALittleClojure.html)
 * [A Little More Clojure](https://blog.cleancoder.com/uncle-bob/2020/04/09/ALittleMoreClojure.html)
+* [Clojure from the ground up](https://aphyr.com/posts/301-clojure-from-the-ground-up-welcome)
