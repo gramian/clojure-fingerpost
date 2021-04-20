@@ -64,6 +64,7 @@
 
 * [Functional Design in Clojure](https://clojuredesign.club/)
 * [The REPL](https://www.therepl.net/)
+* [The Future of Clojure](https://www.thoughtworks.com/podcasts/future-clojure) - ThoughtWorks
 
 ## Blogs
 
